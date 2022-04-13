@@ -1,3 +1,16 @@
+# To run the JSON server first 
+
+json-server --watch ./data/db.json
+
+The app covers:
+
+- useParams hook
+- useHistory
+- Route, Switch, BrowserRouter
+- Redirects
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
